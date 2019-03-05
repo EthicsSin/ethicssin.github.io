@@ -7,8 +7,8 @@ paginate: 5
 language: 'euc-kr'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Ethics Sin Site'
+description: "If you do not live as you think, you live as you think"
 
 short_url: 'ethicssin.github.io/'
 disqus: username
