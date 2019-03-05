@@ -47,8 +47,8 @@ lsi: false
 username: Ethics Sin
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:
-source_url:
+production_url: https://ethicssin.github.io/
+source_url: https://ethicssin.github.io/
 
 exclude:
   - README.md
