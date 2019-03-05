@@ -10,11 +10,10 @@ language: 'euc-kr'
 name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: 'ethicssin.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url: 'ethicssin.github.io/'
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -46,12 +45,12 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: Ethics Sin
-repo: jasper
+repo:
 branch: master
-relative_source: ../jasper/
+relative_source: ../
 destination: ../jasper-pages/
-production_url:  https://ethicssin.github.io/jasper/
-source_url:  https://ethicssin.com/jekyller/jasper/
+production_url:  https://ethicssin.github.io/
+source_url:  https://ethicssin.com/jekyller/
 
 exclude:
   - README.md
