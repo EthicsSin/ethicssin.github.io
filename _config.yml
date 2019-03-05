@@ -7,13 +7,14 @@ paginate: 5
 language: 'euc-kr'
 
 # Website info
-name: 'Ethics Site'
-description: "If you do not live as you think, you live as you think"
+name: 'Finding The Way Home'
+description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: 'ethicssin.github.io'
+short_url: 'ethicssin.github.io/jasper/'
+google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /jasper/
 
 # Permalinks
 permalink: /:title
@@ -45,10 +46,12 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: Ethics Sin
+repo: jasper
+branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url: https://ethicssin.github.io/
-source_url: https://ethicssin.github.io/
+production_url:  https://ethicssin.github.io/jasper/
+source_url:  https://ethicssin.com/jekyller/jasper/
 
 exclude:
   - README.md
